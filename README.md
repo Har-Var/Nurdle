@@ -2,7 +2,7 @@
 # NURDLE
 
 ## Description
-NURDLE is a number-guessing game inspired by Wordle, but with numbers! The player tries to guess a randomly generated number of a specified length, with feedback on each guess to indicate digit correctness and position.
+This is a project I created when I started Learning Python. NURDLE is a number-guessing game inspired by Wordle, but with numbers! The player tries to guess a randomly generated number of a specified length, with feedback on each guess to indicate digit correctness and position.
 
 ## Table of Contents
 - [Description](#description)
